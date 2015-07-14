@@ -9,7 +9,7 @@ One day, a teenager, Miguel Angel Adorna (23rd, August, 2001 to DD-MM-YYYY), dec
 The smartphones
 -----------------
 All started at 6th, February of 2015. Miguel Angel bought his first ubuntu phone. And he decide to create apps (e.g. uburrepos) but he decide to
-go a step further, and he start to create Smartphones design. First; he named his smartphones 'Mooky', but the Spanish translation it's "Tonto" then; he smartphones' name was 'uMooky' and, later; he thought in "Cromo" (chrome) and put the first letter of [u]buntu and change the final 'o' for the final letter of Span[y], and so he was born the name of uCromy.
+go a step further, and he start to create Smartphones design. First; he named his smartphones 'Mooky', but the Spanish translation it's "Tonto" then; he smartphones' name was 'uMooky' and, later; he thought in "Cromo" (chrome) and put the first character of [u]buntu and change the final 'o' for the final letter of Span[y], and so he was born the name of uCromy.
 
 ****************************************************************
 * For view github's help, please, visit Spany/Smartphones/Help 
