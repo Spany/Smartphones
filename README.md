@@ -12,7 +12,7 @@ All started at 6th, February of 2015. Miguel Angel bought his first ubuntu phone
 go a step further, and he start to create Smartphones design. First; he named his smartphones 'Mooky', but the Spanish translation it's "Tonto" then; he smartphones' name was 'uMooky' and, later; he thought in "Cromo" (chrome) and put the first letter of [u]buntu and change the final 'o' for the final letter of Span[y], and so he was born the name of uCromy.
 
 ****************************************************************
-* For view github's help, please, visit Spany/Smartphones/Help *
-****************************************************************
+* For view github's help, please, visit Spany/Smartphones/Help 
 
-(Latest edition 14th of july, 2015 at 2:09 am (Madrid Hour) at Castilleja de la Cuesta, Seville.)
+********************************************
+(Latest edition 14th of july, 2015 at 2:15 am (Madrid Hour) at Castilleja de la Cuesta, Seville.)
