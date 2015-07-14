@@ -1,0 +1,19 @@
+For contribute to our public project, you must fork the repository, install git in your ubuntu pc [Using a terminal (Ctrl+Alt+T)]
+$ sudo apt-get install git
+$ git clone "your-Smartphones-repository-fork-url.git"
+
+Now you can add archives to the repository in /home/your-user/Smartphones/
+
+After add the archives:
+
+$ cd Smartphones
+
+[Make next command only one time]
+$ git config user.email "your.github-email@your-email-domain.com" && git config user.name "your.github-username"
+$ git add .
+$ git commit -m "your-commit-max-20-characters"
+$ git push origin master
+
+Username for 'https://github.com': The terminal ask your github account username (e.g. Spany)
+Password for 'https://youruser@github.com': The terminal ask your github account password (e.g. Ilikegithub4forkarchives)
+

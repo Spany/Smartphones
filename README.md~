@@ -3,7 +3,6 @@ This project was started on Tuesday, 14th of july, 2015 at 1:10 am (Madrid hour)
 ----------------
 History
 =====================================================
-History
 One day, a teenager, Miguel Angel Adorna (23rd, August, 2001 to DD-MM-YYYY), decide to create a colaboration with ubuntu in ~2020 (With release ubuntu touch 20.04) and he start to create designs of phones, tablets, smartglasses, tv's, and... ubuntu edges. Yes, ubuntu edges, the lost battle of Canonical Ltd. 
 ------------------
 The smartphones
