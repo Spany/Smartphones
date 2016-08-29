@@ -3,7 +3,7 @@ This project was started on Tuesday, 14th of july, 2015 at 1:10 am (Madrid hour)
 ----------------
 History
 =====================================================
-One day, a teenager, Miguel Angel Adorna (23rd, August, 2001), decide to create a colaboration with ubuntu in ~2020 (With release ubuntu touch 20.04) and he start to create designs of phones, tablets, smartglasses, tv's, and... ubuntu edges. Yes, ubuntu edges, the lost battle of Canonical Ltd. 
+One day, a teenager, Miguel Angel Adorna (23rd, August, 2001), decide to create a colaboration with ubuntu in ~2020 (With release ubuntu touch 20.04) and he start to create designs of phones and tablets.
 
 
 The smartphones
@@ -15,4 +15,4 @@ go a step further, and he start to create Smartphones design. First; he named hi
 * For view github's help, please, visit u-Hand/Smartphones/Help 
 
 ********************************************
-(Last edition 23rd of july, 2015 at 19:31 pm (Madrid Hour) at Castilleja de la Cuesta, Seville.)
+(Last edition 29th of july, 2016 at 19:04 pm (Madrid Hour) at Castilleja de la Cuesta, Seville.)
