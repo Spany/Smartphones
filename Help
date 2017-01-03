@@ -2,7 +2,7 @@ For contribute to our public project, you must fork the repository, install git 
 $ sudo apt-get install git
 $ git clone "your-Smartphones-repository-fork-url.git"
 
-Now you can add archives to the repository in /home/your-user/Smartphones/
+Now you can add archives to the repository in $/Smartphones/
 
 After add the archives:
 
@@ -14,7 +14,7 @@ $ git add .
 $ git commit -m "your-commit-max-20-characters"
 $ git push origin master
 
-Username for 'https://github.com': The terminal ask your github account username (e.g. Spany)
+Username for 'https://github.com': The terminal ask your github account username (e.g. Aptry)
 Password for 'https://youruser@github.com': The terminal ask your github account password (e.g. Ilikegithub4forkarchives)                       					    (It isn't Spany's account password, don't try it)
 
 
